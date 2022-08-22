@@ -2,7 +2,7 @@
 
 I'm a student at the University of Pennsylvania studying Computer Science and Finance! 
 
-Visit my personal website **[asingh125.github.io](https://asingh125.github.io/)** to see a list of my projects. 
+Visit my personal website to see a list of my projects: **[asingh125.github.io](https://asingh125.github.io/)**  
 
 <!--
 **asingh125/asingh125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
