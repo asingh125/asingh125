@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a student at the University of Pennsylvania studying computer science and management! I'm in the class of 2024. I like puzzles, historical fashion, and true crime podcasts. I enjoy playing tennis and piano. 
+I'm a student at the University of Pennsylvania studying Computer Science and Finance! 
+
+**[Click here](https://asingh125.github.io/)** to visit my personal website. 
 
 <!--
 **asingh125/asingh125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
