@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm a student at the University of Pennsylvania studying Computer Science and Finance! 
+Hello! I'm a student at the University of Pennsylvania studying Computer Science and Finance
 
 Visit my personal website to see a list of my projects: **[asingh125.github.io](https://asingh125.github.io/)**  
 
