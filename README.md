@@ -1,4 +1,4 @@
-Hello! I'm a student at the University of Pennsylvania studying Computer Science and Finance
+<h3> Hello! I'm a student at the University of Pennsylvania studying Computer Science and Finance </h3>
 
 Visit my personal website to see a list of my projects: **[asingh125.github.io](https://asingh125.github.io/)**  
 
